@@ -28,8 +28,10 @@
 ```
 - Controles de Fluxos
 - Coleções
-- Funções e Closures
-- Enums e Structs
+- Funções
+- Closures
+- Enums
+- Structs
 - Concorrências
 ```
 
