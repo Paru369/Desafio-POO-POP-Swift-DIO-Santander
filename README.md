@@ -15,8 +15,8 @@
 
 ## Resolução do desafio das aulas:
 ### Dominando a linguagem de programação Swift
-- POO
-- POP 
+- POO - Temática: Comida [https://github.com/Paru369/Desafio-POO-POP-Swift-DIO-Santander/POO]
+- POP - Temática: Motos Esportivas [https://github.com/Paru369/Desafio-POO-POP-Swift-DIO-Santander/POO]
 
 ## 📝 Enunciado do desafio
 
@@ -34,12 +34,6 @@
 - Structs
 - Concorrências
 ```
-
-
-## ✅ Solves
-[x] POO <br>
-[x] POP <br>
-
 
 ## 📱 Technologies and knowledges
 - Foundation
